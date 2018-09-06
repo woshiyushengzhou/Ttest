@@ -3,8 +3,6 @@
 import datetime
 import imutils
 import time
-import time
-######################################
 import logging
 import traceback
 import cv2

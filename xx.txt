@@ -218,6 +218,10 @@ class AdminIntegerFieldWidget(forms.TextInput):
         super(AdminIntegerFieldWidget, self).__init__(attrs=final_attrs)
 
 
+class TTTTT():
+	def __init__(self):
+		pass
+
 class AdminCommaSeparatedIntegerFieldWidget(forms.TextInput):
 
     def __init__(self, attrs=None):

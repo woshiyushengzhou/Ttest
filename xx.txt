@@ -232,4 +232,6 @@ class AdminCommaSeparatedIntegerFieldWidget(forms.TextInput):
               self).__init__(attrs=final_attrs)
 
 def function_abc():
-	pass
+	a = 1000
+	b = 2000
+	print(a+b)

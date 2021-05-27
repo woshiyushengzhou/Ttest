@@ -226,3 +226,6 @@ class AdminCommaSeparatedIntegerFieldWidget(forms.TextInput):
             final_attrs.update(attrs)
         super(AdminCommaSeparatedIntegerFieldWidget,
               self).__init__(attrs=final_attrs)
+
+def function_abc():
+	pass
